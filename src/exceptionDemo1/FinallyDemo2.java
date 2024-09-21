@@ -3,7 +3,7 @@ package exceptionDemo1;
 public class FinallyDemo2 
 {
 	public static int a=10;
-	public static int b=0;
+	public static int b=2;
 
 	public static void main(String[] args) 
 	{
