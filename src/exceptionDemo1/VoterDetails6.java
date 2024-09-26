@@ -6,8 +6,7 @@ public class VoterDetails6
 
 	public static void main(String[] args) throws voterAgeExeption 
 	{
-		voterAgeValidation(19);
-		voterAgeValidation(18);
+		
 		voterAgeValidation(17);
 	}
 	static void voterAgeValidation(int age) throws voterAgeExeption  
